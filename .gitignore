@@ -1,0 +1,10 @@
+.venv1/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store
+
+# Ignore heavy data
+data/raw/
+models/*.pkl
+energy_logs/
