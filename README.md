@@ -47,5 +47,4 @@ data/: Directory for raw images (not included) and processed CSVs.
 
 results/: Generated plots (Confusion Matrix, ROC, Green AI Charts).
 
-paper/: The full research paper PDF.
 
