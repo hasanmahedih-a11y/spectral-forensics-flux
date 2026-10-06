@@ -49,8 +49,3 @@ results/: Generated plots (Confusion Matrix, ROC, Green AI Charts).
 
 paper/: The full research paper PDF.
 
-**📜 Citation**
-
-If you find this code useful, please cite our work:
-
-[Mahedi Hasan], "Spectral Forensics for Rectified Flow: A Green AI Framework with Robust Cross-Model Generalization," 2025.
